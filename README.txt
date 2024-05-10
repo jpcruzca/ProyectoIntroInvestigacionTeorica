@@ -1,10 +1,11 @@
-Método variacional y método de difusión de Monte Carlo aplicado a sistemas cuánticos de muchos cuerpos.
+Variational Method and Monte Carlo Diffusion Method Applied to Many-Body Quantum Systems
 
-Estudio de un cluster de átomos de He4 y oscilador armonico cuántico unidimensional
+Study of a He4 Atom Cluster and One-Dimensional Quantum Harmonic Oscillator
 
-Universidad Nacional de Colombia 
-Departamento de Física
-Introducción a la Investigación teórica 
+National University of Colombia
+Department of Physics
+Introduction to Theoretical Research
 
 Francisco J. Ordoñez, Carlos G. Salas, Juan Pablo N. Cruz
+
 
